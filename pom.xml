@@ -22,7 +22,7 @@
     <distributionManagement>
         <repository>
             <id>lillian-maven</id>
-            <url>https://maven.lillian.dev/releases</url>
+            <url>https://repo.lillian.dev/releases</url>
         </repository>
     </distributionManagement>
 
